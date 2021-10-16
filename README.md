@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 더 나은 해결법을 위한 끝없는 고민을 하는 개발자.
 
 ---
-### 🛹Skils
+### 🛹Skills
 **Backend**       
 - Java, Python, Javascript
 - Spring Boot, Spring Data JPA
